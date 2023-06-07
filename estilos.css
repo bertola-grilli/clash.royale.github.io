@@ -1,0 +1,116 @@
+body{
+	background-color: #171615;
+}
+h1{
+	text-align: center;
+	font-size: 35px;
+	color: #f2ff00;
+	margin-left:10%;
+	margin-right:10%;
+	line-height:35px;	
+	font-family: Gadget, Arial, Geneva, sans-serif;
+	background-color:#000000;
+	text-shadow:0px 0px 8px #f2ff00;
+	border-radius:20px;
+	border-style:solid;
+	border-color:#8000ff;
+	border-width:5px;
+}
+h2{
+	font-size: 30px;
+	color: #f2ff00;
+	margin-left:10%;
+	margin-right:60%;
+	line-height:35px;	
+	font-family: Gadget, Arial, Geneva, sans-serif;
+	background-color:#171615;
+	text-shadow:0px 0px 8px #f2ff00;
+	border-style:solid;
+	border-color:#8000ff;
+	border-width:5px;
+	border-bottom-color:#8000ff;
+	border-right-color:#171615;
+	border-left-color:#171615;
+	border-top-color:#171615;
+	}
+	h3{
+	font-size: 25px;
+	color: #f2ff00;
+	margin-left:10%;
+	margin-right:60%;
+	line-height:35px;	
+	font-family: Gadget, Arial, Geneva, sans-serif;
+	background-color:#171615;
+	text-shadow:0px 0px 8px #f2ff00;
+	border-style:solid;
+	border-color:#8000ff;
+	border-width:5px;
+	border-bottom-color:#8000ff;
+	border-right-color:#171615;
+	border-left-color:#171615;
+	border-top-color:#171615;
+	}
+p{
+	text-align: justify;
+	font-size: 25px;
+	color: #f0f0f0;
+	margin-left:10%;
+	margin-right:10%;
+	margin-top:20px;
+	line-height:35px;
+	font-family:Georgia,Palatino Linotype, Times, serif;
+	text-shadow:2px 2px 2px #aaaaaa;
+}
+
+img{
+	display:block;
+	margin:auto;
+	margin-bottom:25px;
+	box-shadow: 2px 2px 30px #8000ff;
+	border-radius:20px;
+	border-style:solid;
+	border-color:#000000;
+	border-width:5px;
+}
+ul{
+	color:#f2ff00;
+	text-shadow:0px 0px 6px #f2ff00;
+	font-size:30px;
+	background-color:#171615;
+	margin:auto;
+	margin-left:10%;
+	margin-right:10%;
+	font-family:Courier New, Lucida Console, Monaco, monospace;
+	margin-bottom:20px;
+}
+table{
+	color:#f0f0f0;
+	text-shadow:2px 2px 2px #aaaaaa;
+	font-size:30px;
+	background-color:#171615;
+	margin:auto;
+	margin-left:10%;
+	margin-right:10%;
+	font-family:Courier New, Lucida Console, Monaco, monospace;
+	margin-bottom:20px;
+	border-style:solid;
+	border-color:8000ff;
+}
+a:link{
+	text-align:center;
+	color:#f2ff00;
+	font-size:30px;
+	margin-left:5%;
+	margin-bottom:10px;
+}
+a:hover{
+	color:#dddddd;
+    font-size:43px;
+	background-color:#333333;
+	border-style:dotted;
+	border-color:#555555;
+	border-width:3px;
+}
+a:visited{
+	color:#ff0000;
+}
